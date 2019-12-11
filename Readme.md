@@ -1,4 +1,4 @@
-## ANOVA : Team - 5
+## ANOVA : Analysis of Variance
 
 Wondering how to use..?
 Kindly go through the file "anova.py"
